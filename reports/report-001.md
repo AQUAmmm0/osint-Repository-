@@ -15,4 +15,4 @@
 | 80 | TCP | Open | HTTP (gws) |
 | 443 | TCP | Open | HTTPS (gws) |
 
-**Author:** AQUAmmm0
+BY AQUAmmm0
