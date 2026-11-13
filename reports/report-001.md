@@ -1,6 +1,6 @@
 IP: 172.253.135.102
 
-   ==============GEO info==============
+        GEO info
    
 Continent: North America
 
@@ -14,6 +14,10 @@ ZIP code: 94043
 
 Coordinates of City: 37.38605, -122.08385 
 
-===================================
 
+
+          Open ports:
+     80 
+     443
+   
    By AQUAmmm0
