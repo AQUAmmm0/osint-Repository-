@@ -22,7 +22,11 @@
 | VirusTotal | No malicious detections reported |
 | AbuseIPDB | No abuse reports found |
 | Spamhaus | No listing issues reported |
+| GreyNoise | Not Observed |
 
-**Spamhaus:** https://check.spamhaus.org/results?query=172.253.135.102
+### GreyNoise Details
+- Observation period: Past 1 day
+- Mass scanning activity: Not observed
+- Status: Further investigation recommended
 
 **Author:** AQUAmmm0
