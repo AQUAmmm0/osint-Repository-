@@ -14,9 +14,8 @@ ZIP code: 94043
 
 Coordinates of City: 37.38605, -122.08385 
 
-Open ports:
+      Open ports:
 
-PORT    STATE SERVICE   VERSION
 
 80/tcp  open  http      gws
 
