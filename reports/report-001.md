@@ -14,10 +14,12 @@ ZIP code: 94043
 
 Coordinates of City: 37.38605, -122.08385 
 
+Open ports:
 
+PORT    STATE SERVICE   VERSION
 
-          Open ports:
-     80 
-     443
-   
+80/tcp  open  http      gws
+
+443/tcp open  ssl/https gws
+
    By AQUAmmm0
