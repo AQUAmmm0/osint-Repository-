@@ -1,24 +1,18 @@
-IP: 172.253.135.102
+# IP Analysis — 172.253.135.102
 
-        GEO info
-   
-Continent: North America
+## GEO Information
+- Continent: North America
+- Country: United States
+- State: California
+- City: Mountain View
+- ZIP Code: 94043
+- Coordinates: 37.38605, -122.08385
 
-Country: United States of America ( USA ) 
+## Open Ports
 
-State: California
+| Port | Protocol | State | Service |
+|---|---|---|---|
+| 80 | TCP | Open | HTTP (gws) |
+| 443 | TCP | Open | HTTPS (gws) |
 
-City: Mountain View
-
-ZIP code: 94043 
-
-Coordinates of City: 37.38605, -122.08385 
-
-      Open ports:
-
-
-80/tcp  open  http      gws
-
-443/tcp open  ssl/https gws
-
-   By AQUAmmm0
+**Author:** AQUAmmm0
