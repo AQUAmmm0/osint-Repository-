@@ -21,5 +21,8 @@
 |---|---|
 | VirusTotal | No malicious detections reported |
 | AbuseIPDB | No abuse reports found |
+| Spamhaus | No listing issues reported |
+
+**Spamhaus:** https://check.spamhaus.org/results?query=172.253.135.102
 
 **Author:** AQUAmmm0
