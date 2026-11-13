@@ -15,4 +15,11 @@
 | 80 | TCP | Open | HTTP (gws) |
 | 443 | TCP | Open | HTTPS (gws) |
 
-BY AQUAmmm0
+## Reputation Checks
+
+| Service | Result |
+|---|---|
+| VirusTotal | No malicious detections reported |
+| AbuseIPDB | No abuse reports found |
+
+**Author:** AQUAmmm0
