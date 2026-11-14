@@ -44,4 +44,27 @@
 | Proxy | YES |
 | ISP attribution | Privately owned entrepreneur Vlasenko Nataliya Vitaliivna |
 
+## INFRASTRUCTURE
+
+```mermaid
+flowchart TD
+    A["ej.kpkitp.kiev.ua"]
+    B["91.228.147.37"]
+
+    A --> B
+
+    B --> C["Apache"]
+    B --> D["nginx"]
+    B --> E["Dovecot"]
+    B --> F["Pure-FTPd"]
+    B --> G["OpenSSH"]
+    B --> H["MySQL"]
+
+    C --> C1["80 / 443"]
+    D --> D1["8000 / 8002"]
+    E --> E1["110 / 143 / 993 / 995"]
+    F --> F1["21"]
+    G --> G1["22"]
+    H --> H1["3306 / 33060"]
+```
 
