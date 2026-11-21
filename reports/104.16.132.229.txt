@@ -1,0 +1,89 @@
+TOS: 104.16.132.229 -- (IPV4)
+================================
+         GEOLOCATION
+================================
+Страна: United States of America 🇺🇲️ ; ISO: US
+Штат: California
+Город: San Francisco
+Координаты: Latitude: 37.7749 Longitude: -122.4194 
+Часовой пояс: PST, UTC−8. 
+Почтовой код: 94107
+================================
+            +REP-
+================================
+Прокси: Нет
+Тор: Нет
+Репутация: 0% Low Risk 
+================================
+            OP-P
+================================
+80/tcp;open;http;cloudflare
+443/tcp;open;tcpwrapped
+8080/tcp;open;http-proxy
+8443/tcp;open;ssl/http;Cloudflare http proxy
+================================
+          Contacts
+================================
+Number: +1-650-319-8930; +1-650-319-8930; +1-650-319-8930; +1-650-319-8930; +1-650-319-8930; +1-650-319-8930; +1-650-319-8930
+Mail: noc@cloudflare.com; noc@cloudflare.com; rir@cloudflare.com; abuse@cloudflare.com; noc@cloudflare.com; rir@cloudflare.com; abuse@cloudflare.com
+================================
+          NET-INFO
+================================
+Organization: Cloudflare, Inc. (CLOUD14)
+ASN: AS13335
+ISP: Cloudflare, Inc. 
+JARM fingerprint: 27d40d40d00040d1dc42d43d00041d6183ff1bfae51ebd88d70384363d525c 
+================================
+     Last HTTPS Certificate
+================================ 
+
+Version: V3
+Serial Number: 385c2b2045c32937136c778fd85b1be6
+Thumbprint: 4fb6a9f126f6fd68391614597da2e883d9729a3b
+Signature Algorithm:
+Issuer: C=US O=Google Trust Services CN=WE1
+Validity
+Not Before: 2026-11-03 22:47:56
+Not After: 2027-02-01 23:47:08
+Subject: CN=cloudflare.com
+Subject Public Key Info:
+Public Key Algorithm : EC
+OID: secp256r1
+pub:
+30:59:30:13:06:07:2a:86:48:ce:3d:02:01:06:08:
+2a:86:48:ce:3d:03:01:07:03:42:00:04:60:96:7e:
+1d:33:4f:09:63:c4:16:c2:d6:da:6a:a7:b1:77:76:
+03:ef:c1:98:89:fb:1c:e8:58:aa:7f:d7:e5:97:b8:
+e4:9d:28:45:8f:e7:42:e2:a6:4f:9f:22:dd:ce:70:
+15:75:cc:a0:96:fe:0a:72:4b:4d:0a:01:d8:c2:04:
+88
+X509v3 extensions:
+X509v3 Authority Key Identifier:
+90:77:92:35:67:c4:ff:a8:cc:a9:e6:7b:d9:80:79: 7b:cc:93:f9:38
+X509v3 Subject Key Identifier:
+a1:95:43:ff:8b:0a:06:32:a2:2c:db:40:8d:4d:f5: c9:00:5e:19:82
+X509v3 Subject Alternative Name:
+DNS:cloudflare.com, DNS:ns.cloudflare.com, DNS:*.ns.cloudflare.com, DNS:*.secondary.cloudflare.com, DNS:secondary.cloudflare.com
+X509v3 Key Usage:
+digitalSignature
+X509v3 Extended Key Usage:
+serverAuth
+X509v3 CRL Distribution Points:
+Full Name:
+URI:http://c.pki.goog/we1/BZ13AU6xTwM.crl
+X509v3 Certification Policies:
+Policy: 2.23.140.1.2.1
+Authority Information Access:
+CA Issuers - http://i.pki.goog/we1.crt
+X509v3 Basic Constraints:
+CA:false
+1.3.6.1.4.1.11129.2.4.2:
+0481fb00f9007600eddaeb815c63213449b47be5077905abd0d93147c27ac514
+Signature Algorithm: 1.2.840.10045.4.3.2
+30:45:02:21:00:97:8e:5e:ec:dd:c4:14:29:c4:93:
+73:57:ea:c9:23:9b:07:c3:ce:1c:32:3e:40:dc:5c:
+62:2b:b0:55:ca:ed:23:02:20:67:e6:f5:32:19:75:
+82:46:43:19:4a:b7:4d:95:46:5f:51:aa:7e:a2:f7:
+b6:3e:b9:ab:c2:9f:b3:a0:4e:ea:d4
+
+
